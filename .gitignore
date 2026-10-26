@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 工具默认输出目录
+sap_src_*/
+
+# 虚拟环境 / IDE
+.venv/
+.idea/
+.vscode/
